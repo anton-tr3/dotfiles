@@ -1,4 +1,4 @@
-# My Dotfiles
+# My Dotfiles ![Distro](https://img.shields.io/badge/Distribution-Arch-blue)
 
 
 
