@@ -1,4 +1,5 @@
-# My Dotfiles ![Distro](https://img.shields.io/badge/Distribution-Arch-blue)
+# My Dotfiles ![Distribution](https://img.shields.io/badge/Distribution-Arch-blue)
+
 
 
 
@@ -8,10 +9,9 @@ This setup requires a few programs to be installed
 | Software | Description | Installation |
 | --- | --- | --- |
 | i3-gaps | Window manager | `sudo pacman -S i3-gaps` |
-| polybar | Status bar| `sudo pacman -S polybar` |
-| neofetch | Device statistics| `sudo pacman -S neofetch` |
 | feh | Set wallpapers | `sudo pacman -S feh` |
 | yay | AUR package manager | [Instructions here](https://github.com/Jguer/yay) |
+| polybar | Status bar| `yay -S polybar` |
 | picom | Window transparency | `yay -S picom` |
 
 ### Other
@@ -33,6 +33,8 @@ After, paste the files from the config folder to `~/.config` and the fonts to `~
 | --- | --- | --- |
 | cli-visualiser | Music visualiser | `sudo pacman -S ncurses fftw cmake`
 | pokemon-colorscripts  | Pokemon sprites in terminal | [Instructions here](https://gitlab.com/phoneybadger/pokemon-colorscripts) |
+| neofetch | Device statistics| `sudo pacman -S neofetch` |
+| ranger | File manager | `sudo pacman -S ranger` |
 
 ## Todo
  - [ ] Setup Betterdiscord with pywal
@@ -41,4 +43,3 @@ After, paste the files from the config folder to `~/.config` and the fonts to `~
  - [ ] Setup cli-visualiser
  - [ ] Setup pokemon-colorscripts to run on terminal launch
  - [ ] Setup neofetch config
-
