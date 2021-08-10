@@ -35,6 +35,10 @@ After, paste the files from the config folder to `~/.config` and the fonts to `~
 | pokemon-colorscripts  | Pokemon sprites in terminal | [Instructions here](https://gitlab.com/phoneybadger/pokemon-colorscripts) |
 
 ## Todo
- - [ ] Setup betterdiscord with pywal
- - [ ] Setup spicetify with pywal
- - [ ] Setup 
+ - [ ] Setup Betterdiscord with pywal
+ - [ ] Setup Spicetify with pywal
+ - [ ] Setup Firefox with pywal
+ - [ ] Setup cli-visualiser
+ - [ ] Setup pokemon-colorscripts to run on terminal launch
+ - [ ] Setup neofetch config
+
