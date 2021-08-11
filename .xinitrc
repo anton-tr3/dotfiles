@@ -1,2 +1,2 @@
 exec i3
-wal -R
+xrdb -load ~/.Xresources
