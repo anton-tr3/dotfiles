@@ -185,7 +185,7 @@ gaps outer 20
 gaps top 60
 
 # Rofi shortcut
-bindsym $mod+x exec "rofi -show"
+bindsym $mod+x exec "rofi -show drun"
 
 # Setup polybar
 exec_always --no-startup-id $HOME/.config/polybar/launch.sh
