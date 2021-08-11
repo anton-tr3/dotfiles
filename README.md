@@ -60,6 +60,6 @@ Required for polybar modules to work. After installing, execute `sudo fc-cache` 
  - [ ] Setup Spicetify with pywal
  - [ ] Setup Firefox with pywal
  - [ ] Setup cli-visualiser
- - [ ] Setup pokemon-colorscripts to run on terminal launch
+ - [x] Setup pokemon-colorscripts to run on terminal launch
  - [ ] Setup neofetch config
  - [ ] Setup rofi theme
