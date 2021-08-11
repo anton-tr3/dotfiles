@@ -44,8 +44,8 @@ Required for polybar modules to work. After installing, execute `sudo fc-cache` 
 - The wallpaper (with pywal palettes) can be changed through adding the image path to the `i3` config file. 
   - Alternatively, a `wal-scale` command is included in the `.zshrc` file that sets a wallpaper and generates a palette using pywal, but will reset to the config defaults upon refresh
 - zsh theme can be changed through editing `ZSH_THEME` in the `.zshrc` config
-	- Paste `refined-alt.zsh-theme` in `~.oh-my-zsh/themes`
- > Make all .sh files executable using `chmod u+x [file].sh`
+	- Paste `refined-alt.zsh-theme` in `~.oh-my-zsh/themes` and **change the name on line 40**  
+ > Make all .sh files executable using `chmod u+x [file].sh` 
 
 ## Additional Software
 | Software | Description | Installation |
