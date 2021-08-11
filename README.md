@@ -4,7 +4,7 @@
 
 
 ## Installation
-This setup requires a few programs to be installed
+These programs must be installed for these configs to work:
 ### Main
 | Software | Description | Installation |
 | --- | --- | --- |
@@ -60,6 +60,7 @@ Required for polybar modules to work. After installing, execute `sudo fc-cache` 
  - [ ] Setup Spicetify with pywal
  - [ ] Setup Firefox with pywal
  - [ ] Setup cli-visualiser
- - [x] Setup pokemon-colorscripts to run on terminal launch
  - [ ] Setup neofetch config
- - [ ] Setup rofi theme
+ - [ ] Setup dunst
+ - [x] Setup rofi with pywal
+ - [x] Setup pokemon-colorscripts to run on terminal launch
