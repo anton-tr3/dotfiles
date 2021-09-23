@@ -45,7 +45,7 @@ Required for polybar modules to work. After installing, execute `sudo fc-cache` 
   - Alternatively, a `wal-scale` command is included in the `.zshrc` file that sets a wallpaper and generates a palette using pywal, but will reset to the config defaults upon refresh
 - zsh theme can be changed through editing `ZSH_THEME` in the `.zshrc` config
 	- Paste `refined-alt.zsh-theme` in `~.oh-my-zsh/themes` and **change the name on line 40**  
- > Make all .sh files executable using `chmod u+x [file].sh` 
+ > **Make all .sh files executable using `chmod u+x [file].sh`**. Otherwise polybar and certain modules will not work!
 
 ## Additional Software
 | Software | Description | Installation |
