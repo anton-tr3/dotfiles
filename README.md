@@ -59,8 +59,7 @@ Required for polybar modules to work. After installing, execute `sudo fc-cache` 
  - [ ] Setup Betterdiscord with pywal
  - [ ] Setup Spicetify with pywal
  - [ ] Setup Firefox with pywal
- - [ ] Setup cli-visualiser
- - [ ] Setup neofetch config
+ - [X] Setup cli-visualiser
  - [ ] Setup dunst
  - [x] Setup rofi with pywal
  - [x] Setup pokemon-colorscripts to run on terminal launch
