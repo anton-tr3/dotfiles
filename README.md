@@ -50,7 +50,7 @@ Required for polybar modules to work. After installing, execute `sudo fc-cache` 
 ## Additional Software
 | Software | Description | Installation |
 | --- | --- | --- |
-| cli-visualiser | Music visualiser | `sudo pacman -S ncurses fftw cmake`
+| cli-visualiser | Music visualiser | `sudo pacman -S ncurses fftw cmake` and `yay -S cli-visualizer`
 | pokemon-colorscripts  | Pokemon sprites in terminal | `yay -S pokemon-colorscripts-git'` |
 | neofetch | Device statistics| `sudo pacman -S neofetch` |
 | ranger | File manager | `sudo pacman -S ranger` |
