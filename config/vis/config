@@ -1,0 +1,24 @@
+visualizer.fps=30
+audio.sources=pulse
+audio.stereo.enabled=false
+
+visualizer.spectrum.bar.width=1
+visualizer.spectrum.bar.spacing=1
+
+visualizer.spectrum.smoothing.mode=sgs
+visualizer.sgs.smoothing.points=3
+visualizer.sgs.smoothing.passes=3
+
+visualizer.spectrum.falloff.mode=fill
+visualizer.spectrum.falloff.weight=1.0
+
+#visualizer.spectrum.top.margin=0.20
+#visualizer.spectrum.bottom.margin=0.20
+visualizer.spectrum.right.margin=0.05
+visualizer.spectrum.left.margin=0.05
+
+visualizer.ellipse.radius=2
+visualizer.scaling.multiplier = 5
+
+colors.override.terminal=false
+colors.scheme=pywal,rainbow
