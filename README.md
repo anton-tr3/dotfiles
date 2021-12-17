@@ -59,7 +59,4 @@ Required for polybar modules to work. After installing, execute `sudo fc-cache` 
  - [ ] Setup Betterdiscord with pywal
  - [ ] Setup Spicetify with pywal
  - [ ] Setup Firefox with pywal
- - [X] Setup cli-visualiser
- - [ ] Setup dunst
- - [x] Setup rofi with pywal
- - [x] Setup pokemon-colorscripts to run on terminal launch
+ - [ ] Nvim, vim-plug, zathura (with pywal), zathura-pdf-mupdf, vimtex, texlive-most documentation
